@@ -2,7 +2,7 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IoannisNasios&show_icons=true&hide_title=true&include_all_commits=true&theme=radical)" alt="IoannisNasios" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IoannisNasios&show_icons=true&theme=radical)" alt="IoannisNasios" /></p>
 
 
 
