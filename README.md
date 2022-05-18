@@ -6,6 +6,11 @@
 
 
 
+### Kaggle
+
+[Ouranos's Kaggle Profile](https://www.kaggle.com/ouranos)
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ouranos/competition)
 
 
 
